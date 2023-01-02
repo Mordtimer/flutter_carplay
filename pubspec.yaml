@@ -9,8 +9,6 @@ environment:
   sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
-  analyzer: ^4.7.0
-
   flutter:
     sdk: flutter
   uuid:
